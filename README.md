@@ -3,20 +3,20 @@
 # Overview
 As part of my Mentorness internship, I analyzed a hotel reservation dataset using SQL queries to extract insights and recommendations. The objective was to comprehend guest preferences, booking trends, and operational elements to enhance hotel performance.
 
-Key Steps
-Data Exploration: Employ SQL queries to investigate dataset structure, size, and date ranges.
-Analysis Queries: Address specific inquiries to unveil insights on reservations, market segments, and room preferences.
-Insights Extraction: Interpret findings to grasp guest behaviors, booking patterns, and seasonal fluctuations.
-Recommendations: Offer actionable suggestions to refine marketing strategies, enrich guest experiences, and streamline operations.
+# Key Points
+- **Data Exploration:** Utilize SQL queries to explore dataset structure, size, and date ranges.
+- **Analysis Queries:** Address specific questions to uncover insights on reservations, market segments, and room preferences.
+- **Insights Extraction:** Interpret findings to understand guest behaviors, booking patterns, and seasonal trends.
+- **Recommendations:** Provide actionable suggestions to improve marketing strategies, enhance guest experiences, and optimize operations.
 
-Key Insights
-The bulk of reservations stem from the online market segment, suggesting a preference for online booking platforms.
-Families often choose one-night stays during weekends, highlighting a need for family-friendly weekend getaways.
-October emerges as the busiest month for reservations, while January experiences the lowest booking activity, revealing seasonal demand shifts.
-These observations aid in strategic decision-making, allowing for tailored marketing strategies, improved guest services, and optimized resource allocation to enhance hotel performance.
+# Key Findings
+1. **Majority of reservations are made through the online market segment, indicating a preference for online booking platforms.**
+2. **Families prefer one-night stays on weekends, highlighting a demand for weekend getaways suitable for families.**
+3. **October emerges as the peak reservation month, while January records the lowest number of reservations, indicating seasonal variations in demand.**
 
 # Conclusion
-Through meticulous data analysis, this project yields valuable insights for optimizing hotel operations and elevating the overall guest experience. Leveraging these insights enables informed decision-making to propel business growth and success.
+Through data analysis, this project provides valuable insights for optimizing hotel operations and enhancing the overall guest experience. By leveraging these insights, the hotel can make informed decisions to drive business growth and success.
 
-# Presentation Link: [Link]
+# Presentation Link
+[Link]
 
